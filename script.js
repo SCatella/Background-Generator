@@ -15,6 +15,8 @@ function setGradient() {
         css.textContent = body.style.background + ";";
 }
 
+//Silly Change
+
 setGradient();
 
 color1.addEventListener("input", setGradient);
