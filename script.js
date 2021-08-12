@@ -21,8 +21,3 @@ setGradient();
 color1.addEventListener("input", setGradient);
 
 color2.addEventListener("input", setGradient);
-
-randButton.addEventListener("click", function() {
-    color1.value = "#" + randHex;
-    color2.value = "#" + randHex;
-})
