@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/SCatella/Background-Generator#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
   }
 }
